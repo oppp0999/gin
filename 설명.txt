@@ -1,0 +1,32 @@
+0. Go Develop Roadmap in 2020
+
+1) 관련 사이트 : https://github.com/Alikhll/golang-developer-roadmap
+
+- 위 링크를 가보시면 Golang Developer라면 익혀야될 Step에 대해서 나열되어 있다.
+
+- 'Web Frameworks + Routers', 'ORMs', 'Caching', 'Logging', 'Testing', 'RPC' 등의 큰 주제가 있습니다.
+
+- 아직 Golang을 접한지 얼마 안되어 우선 Web Frameworks 중 Gin을 기반으로 Toy Project를 수행하여 익숙해지려 합니다
+
+ 
+
+1. Gin Web Framework를 선택한 이유?
+1) 관련 포스팅 : medium.com/devtechtoday/top-7-golang-web-frameworks-in-2020-and-beyond-9ca2a89eb904
+
+- 첫 번째로는 Github내 24K로 Stars 수가 가장 많습니다. 개발을 진행함에 있어서 가장 중요한 것은 많이 사용하는 활성화된 오픈소스냐라는 점입니다. 이는 개발자의 숙명인 구글링을 할 때 엄청난 힘이 되기 때문이죠!
+
+
+- 두 번째로는 속도가 빠른 편에 속합니다. 거의 Aero를 제외하고는 가장 높은 속도를 자랑합니다.
+
+
+
+ 
+
+1. Gin Installation (Gin 설치)
+0. 관련 사이트
+
+1) 관련 사이트 : github.com/gin-gonic/gin
+
+- Gin Web Framework의 공식 Github 주소로 해당 Readme 파일에 참고할만한 많은 내용이 있으니 참고해주세요.
+
+- 이번 포스팅의 경우도 위 내용을 바탕으로 직접 정리하였습니다.
